@@ -28,6 +28,7 @@ Once you have the project running, you can:
 
 ### United Kingdom (UK) News Section
 <!-- Add screenshot for UK news section -->
+![Canada News Screenshot](caSS.png)
 
 ### United States (USA) News Section
 <!-- Add screenshot for USA news section -->
