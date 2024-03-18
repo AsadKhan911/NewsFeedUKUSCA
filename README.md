@@ -28,13 +28,15 @@ Once you have the project running, you can:
 
 ### United Kingdom (UK) News Section
 <!-- Add screenshot for UK news section -->
-![Canada News Screenshot](caSS.png)
+![UK News Screenshot](ukSS.png)
 
 ### United States (USA) News Section
 <!-- Add screenshot for USA news section -->
+![USA News Screenshot](usSS.png)
 
 ### Canada (CA) News Section
 <!-- Add screenshot for Canada news section -->
+![Canada News Screenshot](caSS.png)
 
 ## Contributions
 
