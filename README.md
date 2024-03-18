@@ -1,6 +1,6 @@
-# NewsFlashJS
+# NewsHubUKUSCA
 
-NewsFlashJS is a JavaScript-based news aggregator that provides real-time updates from the United Kingdom, United States, and Canada. Powered by an API, this project delivers the latest news articles with a clean and intuitive user interface, offering users a seamless browsing experience. Stay informed about current events across the Atlantic with this user-friendly news platform.
+NewsHubUKUSCA is a JavaScript-based news aggregator that provides real-time updates from the United Kingdom, United States, and Canada. Powered by an API, this project delivers the latest news articles with a clean and intuitive user interface, offering users a seamless browsing experience. Stay informed about current events across the Atlantic with this user-friendly news platform.
 
 ## Features
 
@@ -32,7 +32,7 @@ Once you have the project running, you can:
 
 ### United States (USA) News Section
 <!-- Add screenshot for USA news section -->
-![USA News Screenshot](usSS.png)
+![USA News Screenshot](usaSS.png)
 
 ### Canada (CA) News Section
 <!-- Add screenshot for Canada news section -->
