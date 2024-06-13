@@ -2,7 +2,7 @@
 
 NewsHubUKUSCA is a JavaScript-based news aggregator that provides real-time updates from the United Kingdom, United States, and Canada. Powered by an API, this project delivers the latest news articles with a clean and intuitive user interface, offering users a seamless browsing experience. Stay informed about current events across the Atlantic with this user-friendly news platform.
 
-## Features
+## Features!
 
 - Utilizes JavaScript for dynamic content rendering and interactivity.
 - Fetches news data from an API for up-to-date information.
